@@ -1,0 +1,17 @@
+.admission-section form label{
+    display: block;
+    text-align: left;
+}
+.admission-section select{
+    border-radius: 0px;
+    background-color: #ededed;
+    box-shadow:0px;
+}
+.admission-section button.btn-primary{
+    background-color:rgb(17, 182, 122);
+    border-radius: 0px;
+    border-color:rgb(17, 182, 122);
+}
+.admission-section button.btn-primary:hover{
+    background-color: #07294d;
+}
