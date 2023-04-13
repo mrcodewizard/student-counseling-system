@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/student-counseling-system/static/css/main.6e340fe0.chunk.css",
+    "main.js": "/student-counseling-system/static/js/main.9391e071.chunk.js",
+    "main.js.map": "/student-counseling-system/static/js/main.9391e071.chunk.js.map",
+    "runtime-main.js": "/student-counseling-system/static/js/runtime-main.3eeae77c.js",
+    "runtime-main.js.map": "/student-counseling-system/static/js/runtime-main.3eeae77c.js.map",
+    "static/css/2.4bcdd7e8.chunk.css": "/student-counseling-system/static/css/2.4bcdd7e8.chunk.css",
+    "static/js/2.548ea1a1.chunk.js": "/student-counseling-system/static/js/2.548ea1a1.chunk.js",
+    "static/js/2.548ea1a1.chunk.js.map": "/student-counseling-system/static/js/2.548ea1a1.chunk.js.map",
+    "static/js/3.699934ba.chunk.js": "/student-counseling-system/static/js/3.699934ba.chunk.js",
+    "static/js/3.699934ba.chunk.js.map": "/student-counseling-system/static/js/3.699934ba.chunk.js.map",
+    "index.html": "/student-counseling-system/index.html",
+    "static/css/2.4bcdd7e8.chunk.css.map": "/student-counseling-system/static/css/2.4bcdd7e8.chunk.css.map",
+    "static/css/main.6e340fe0.chunk.css.map": "/student-counseling-system/static/css/main.6e340fe0.chunk.css.map",
+    "static/js/2.548ea1a1.chunk.js.LICENSE.txt": "/student-counseling-system/static/js/2.548ea1a1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/student-counseling-system/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/styles.css": "/student-counseling-system/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eeae77c.js",
+    "static/css/2.4bcdd7e8.chunk.css",
+    "static/js/2.548ea1a1.chunk.js",
+    "static/css/main.6e340fe0.chunk.css",
+    "static/js/main.9391e071.chunk.js"
+  ]
+}
